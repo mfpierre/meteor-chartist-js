@@ -1,7 +1,7 @@
 Package.describe({
   name: 'mfpierre:chartist-js',
   summary: 'Simple responsive charts',
-  version: '1.0.0',
+  version: '1.1.0',
   git: 'https://github.com/mfpierre/meteor-chartist-js'
 });
 
