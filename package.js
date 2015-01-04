@@ -1,7 +1,7 @@
 Package.describe({
-  name: 'slackcc:chartist-js',
+  name: 'slackcc:meteor-chartist-js',
   summary: 'Simple responsive charts',
-  version: '1.1.0',
+  version: '1.2.0',
   git: 'https://github.com/slackcc/meteor-chartist-js'
 });
 
