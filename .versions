@@ -5,7 +5,7 @@ ecmascript@0.4.8
 ecmascript-runtime@0.2.12
 fourseven:scss@3.8.0_1
 meteor@1.1.16
-mfpierre:chartist-js@1.6.3
+mfpierre:chartist-js@1.7.0
 modules@0.6.5
 modules-runtime@0.6.5
 promise@0.7.3
