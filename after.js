@@ -1,1 +1,0 @@
-Chartist = module.exports;
