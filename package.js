@@ -7,7 +7,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
-  api.use('fourseven:scss@3.8.0');
+  api.use('fourseven:scss@4.12.0');
   api.addFiles([
     'chartist-js/dist/chartist.js',
     'chartist-js/dist/scss/settings/_chartist-settings.scss',
